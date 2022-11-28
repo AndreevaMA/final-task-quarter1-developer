@@ -58,3 +58,28 @@ static string[] FillArray(int number)
     }
     return elements;
 }
+
+//---------------Creating a new array fulfilling the task conditions-------------------
+static string[] CreateArray(string[] elements)
+{
+    string[] newElements = new string[elements.Length];
+    int count = 0;
+
+    for (int i = 0; i < elements.Length; i++)
+    {
+        if (elements[i].Length <= 3)
+        {
+            newElements[count] = elements[i];
+            count++;
+        }
+    }
+
+    string[] finalElements = new string[count];
+
+    for (int j = 0; j < count; j++)
+    {
+        finalElements[j] = newElements[j];
+    }
+
+    return finalElements;
+}

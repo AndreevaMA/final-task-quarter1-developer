@@ -1,0 +1,15 @@
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\bin\Debug\net6.0\Csharp_task_solution.exe
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\bin\Debug\net6.0\Csharp_task_solution.deps.json
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\bin\Debug\net6.0\Csharp_task_solution.runtimeconfig.json
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\bin\Debug\net6.0\Csharp_task_solution.dll
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\bin\Debug\net6.0\Csharp_task_solution.pdb
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\Csharp_task_solution.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\Csharp_task_solution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\Csharp_task_solution.AssemblyInfoInputs.cache
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\Csharp_task_solution.AssemblyInfo.cs
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\Csharp_task_solution.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\Csharp_task_solution.dll
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\refint\Csharp_task_solution.dll
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\Csharp_task_solution.pdb
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\Csharp_task_solution.genruntimeconfig.cache
+C:\Users\maria\Desktop\FinalQuarter1Final\final-task-quarter1-developer\Csharp_task_solution\obj\Debug\net6.0\ref\Csharp_task_solution.dll
