@@ -15,3 +15,19 @@ string[] newArray = CreateArray(initArray);
 PrintArray(newArray);
 
 //-------------------------------------Program end-------------------------------------
+
+//---------------------------------------METHODS---------------------------------------
+//-------------------------------------User input--------------------------------------
+static int UserInput(string message, string errorMessage)
+{
+    while (true)
+    {
+        Console.Write(message);
+        bool isCorrect = int.TryParse(Console.ReadLine(), out int number);
+        if (isCorrect)
+        {
+            if (number > 4 && number < 11) return number;
+        }
+        else Console.WriteLine(errorMessage);
+    }
+}
