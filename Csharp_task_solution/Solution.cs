@@ -31,3 +31,30 @@ static int UserInput(string message, string errorMessage)
         else Console.WriteLine(errorMessage);
     }
 }
+
+//----------------------------------Printing an array----------------------------------
+static void PrintArray(string[] elements)
+{
+    if (elements.Length == 0) Console.WriteLine($"[]");
+    else
+    {
+        Console.Write($"[");
+        for (int i = 0; i < elements.Length - 1; i++)
+        {
+            Console.Write($"\"{elements[i]}\", ");
+        }
+        Console.Write($"\"{elements[elements.Length - 1]}\"]");
+    }
+}
+
+//----------------------------------Filling an array-----------------------------------
+static string[] FillArray(int number)
+{
+    string[] elements = new string[number];
+    for (int i = 0; i < number; i++)
+    {
+        Console.Write($"Input some symbols: ");
+        elements[i] = Console.ReadLine() ?? "";
+    }
+    return elements;
+}
